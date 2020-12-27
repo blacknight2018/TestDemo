@@ -1,1 +1,1 @@
-module "TestDemo"
+module "github.com/blacknight2018/TestDemo"
